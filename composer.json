@@ -1,5 +1,5 @@
 {
-    "name": "jenssegers/mongo-session",
+    "name": "jenssegers/mongodb-session",
     "description": "A MongoDB session driver for Laravel 4, 5, 6, 7 and 8, 9",
     "keywords": ["laravel","session","mongodb","mongo","driver"],
     "authors": [
